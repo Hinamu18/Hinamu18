@@ -1,13 +1,18 @@
 ## Hi there 👋
+
 # ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝓎 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~
 
 ## 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊
-![Hianmu](https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif)
 
-- **Name:** Hianmu
-- **Loves:** anime, osu, rhythm games
-- **Gender:** He/Him
-- **Hobbies:** Tech Stuff, Graphic Design, Web Development
+<div style="display: flex; align-items: center;">
+  <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" width="200" style="margin-right: 20px;">
+  <ul>
+    <li><b>Name:</b> Hianmu</li>
+    <li><b>Loves:</b> anime, osu, rhythm games</li>
+    <li><b>Gender:</b> He/Him</li>
+    <li><b>Hobbies:</b> Tech Stuff, Graphic Design, Web Development</li>
+  </ul>
+</div>
 
 ---
 
