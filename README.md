@@ -4,7 +4,7 @@
 ## *About Me*
 
 
-**Name:** Hinamu 
+**Name:** Hinamu   
 **Loves:** 📺 Anime, 🎮 Games, 📚 Books, 🏃‍♂️ Sport  
 **Hobbies:** 💻 Tech Stuff, 🐧 Linux Ricing 
 </center>
