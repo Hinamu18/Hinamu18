@@ -2,9 +2,9 @@
 
 <center> 
 
-## ___~ WELCOME TO MY PROFILE ~___ 
+## ~ WELCOME TO MY PROFILE ~
 
-## ___~ About Me ~___
+## ~ About Me ~
 
 </center>
 
