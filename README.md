@@ -9,7 +9,7 @@
 **Hobbies:** 💻 Tech Stuff, 🐧 Linux Ricing 
 </center>
 
-<img src = "https://tenor.com/view/lotm-lord-of-the-mysteries-mr-door-mr-door-lotm-klein-moretti-gif-1687054570750017081" />
+<img src = "https://tenor.com/view/lotm-lord-of-the-mysteries-mr-door-mr-door-lotm-klein-moretti-gif-1687054570750017081"/>
 
 
 
