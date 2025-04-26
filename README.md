@@ -23,6 +23,8 @@
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="40"/>
 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="40"/>
+
 <!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="40"/> -->
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arch-Dark.svg" width="40"/>
