@@ -9,8 +9,6 @@
 **Hobbies:** 💻 Tech Stuff, 🐧 Linux Ricing 
 </center>
 
-<!--img src = "https://tenor.com/view/lotm-lord-of-the-mysteries-mr-door-mr-door-lotm-klein-moretti-gif-1687054570750017081"/>-->
-
 
 
 ## *What I Know*
@@ -24,8 +22,6 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="40"/>
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="40"/>
-
-<!--<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="40"/> -->
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arch-Dark.svg" width="40"/>
 
