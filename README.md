@@ -10,7 +10,7 @@
 
 **Hobbies:** 💻 Tech Stuff, 🐧 Linux Ricing 
 
-**SocialMedia:** https://x.com/hinamu17
+**SocialMedia:** https://x.com/hinamu17        https://www.youtube.com/@hinamu18
 </center>
 
 
