@@ -7,6 +7,7 @@
 **Name:** Hinamu   
 **Loves:** 📺 Anime, 🎮 Games, 📚 Books  
 **Hobbies:** 💻 Tech Stuff, 🐧 Linux Ricing 
+**SocialMedia:** https://x.com/hinamu17
 </center>
 
 
