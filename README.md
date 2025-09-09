@@ -1,19 +1,12 @@
 <div align="center">
      
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F4C9DC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=80&lines=~Welcome+to+my+github+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F4C9DC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=80&lines=~Welcome~+%F0%9F%8C%9F)](https://git.io/typing-svg)
 ## *About Me*
 
 
 **Name:** Hinamu   
 
-**Loves:** 📺 Anime, 🎮 Games, 📚 Books  
-
-**Hobbies:** 💻 Tech Stuff, 🐧 Linux Ricing 
-
-**SocialMedia:** https://x.com/hinamu17        https://www.youtube.com/@hinamu18
-</center>
-
-
+**Loves:** 📺 Anime, 🎮 Games, 📚 Books
 
 ## *What I Know*
 
