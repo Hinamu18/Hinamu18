@@ -10,7 +10,7 @@
 
 ## *What I Know*
 
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right"/>
+<img src="./8_Bit_Art.gif" align="right"/>
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40"/>
 
