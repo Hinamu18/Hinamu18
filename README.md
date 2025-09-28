@@ -5,8 +5,9 @@
 
 
 **Name:** Hinamu   
-**Loves:** 📺 Anime, 🎮 Games, 📚 Books
+**Loves:** 📺 Anime, 🎮 Games, 📚 Books     
 **Social media:** <a href="https://x.com/hinamu17">X</a>
+
 ## *What I Know*
 
 <img src="./8_Bit_Art.gif" align="right"/>
