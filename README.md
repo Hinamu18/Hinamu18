@@ -4,7 +4,7 @@
 ## *About Me*
 
 
-**Name:** Hinamu   
+**Name:** Ahmed Alsaedi   
 **Loves:** 📺 Anime, 🎮 Games, 📚 Books     
 **Social media:** <a href="https://x.com/hinamu17">X</a>
 
