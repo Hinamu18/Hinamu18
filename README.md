@@ -14,12 +14,15 @@
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40"/>
 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40"/>
+
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="40"/>
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" width="40"/>
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arch-Dark.svg" width="40"/>
 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="40"/>
 
 <!--
 **Hinamu18/Hinamu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
