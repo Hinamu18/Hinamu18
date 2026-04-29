@@ -5,7 +5,6 @@
 
 
 **Name:** Ahmed Alsaedi        
-**Social media:** <a href="https://x.com/hinamu17">X</a>
 
 ## *What I Know*
 
